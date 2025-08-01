@@ -1,0 +1,21 @@
+{
+  "fotos": [
+    {   "id": 1, 
+        "legenda": "local em que faziamos trabalhos", 
+        "imagem": "https://i.postimg.cc/3NLd9V6V/trabalho.jpg", 
+        "data": "31/07/2025" 
+    },
+    { 
+        "id": 2, 
+        "legenda": "banheiro em que escovamos os dentes em todos os almoços",
+        "imagem": "https://i.postimg.cc/Gh54D0vs/banheiro.jpg", 
+        "data": "31/07/2025" 
+    },
+    { 
+        "id": 3, 
+        "legenda": "local em que sentamos para conversar depois do almoço",
+        "imagem": "https://i.postimg.cc/3x0dCLZf/conversa.jpg", 
+        "data": "31/07/2025" 
+    }
+  ]
+}
